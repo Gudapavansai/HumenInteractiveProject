@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
-import './app.css';
+import './App.css';
 
 // Redux-like state management using React Context
 const AppContext = React.createContext();
